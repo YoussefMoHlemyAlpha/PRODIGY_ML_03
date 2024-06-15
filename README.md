@@ -1,1 +1,1 @@
-# PRODIGY_ML_03
+### <i>The goal of this project is to classify images of dogs using a pre-trained Support Vector Machine (SVM) model. The SVM model has been previously trained on a dataset of images containing various classes of dogs.</i>
